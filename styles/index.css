@@ -28,13 +28,46 @@ ul.navigation li {
     margin-left: 10px;
 }
 
-ul.navigation li a {
+btn1 {
+    border-radius: 5px;
+    display: inline-block;
+    margin: 0;
+    color: white;
+    background-color: black;
     text-decoration: none;
+}
+.btn-alt1 {
+    border: 1px solid #dfe2ef;
+    padding: 10px 30px;
+}
+.btn2 {
+    border-radius: 5px;
+    display: inline-block;
+    margin: 0;
+    color: white;
+    background-color: black;
+    text-decoration: none;
+}
+.btn-alt2 {
+    border: 1px solid #dfe2ef;
+    padding: 10px 30px;
+}
+.btn3 {
+    border-radius: 5px;
+    display: inline-block;
+    margin: 0;
+    color: white;
+    background-color: black;
+    text-decoration: none;
+}
+.btn-alt3 {
+    border: 1px solid #dfe2ef;
+    padding: 10px 30px;
 }
 .Introduce  {
     color: whitesmoke;
     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    margin-bottom: 100%;
+    
     padding: 50px;
 }
 
@@ -96,4 +129,40 @@ ul.navigation li a {
   }
   #project2 {
     width: 500px;
+  }
+  .icon-button1 {
+    padding: 10px 20px;
+    background-image: url('../images/icons8-github-24.png');
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 16px 16px;
+  }
+  .icon-button2 {
+    padding: 10px 20px;
+    background-image: url('../images/icons8-twitter-48.png');
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 16px 16px;
+  }
+  .icon-button3 {
+    padding: 10px 20px;
+    background-image: url('../images/icons8-linkedin-48.png');
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 16px 16px;
+  }
+  .tech .social .projects {
+    padding: 50px;
+  }
+  .tech p {
+    color: antiquewhite;
+  }
+  .social h2 {
+    color: antiquewhite;
+  }
+  .projects p {
+    color: antiquewhite;
+  }
+  .projects h1 {
+    color: antiquewhite;
   }
