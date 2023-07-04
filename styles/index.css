@@ -1,5 +1,7 @@
 body {
-    background-color: #191970;
+    background-image: url('../images/frontsite.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .circle {
     width: 200px;
