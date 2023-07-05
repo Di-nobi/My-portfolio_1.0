@@ -3,14 +3,6 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
-@media (max-width: 767px) {
-    body {
-      background-image: url('mobile-image.jpg');
-      background-size: contain;
-      background-repeat: no-repeat;
-      background-position: center center;
-    }
-  }
   
 
 h4 {
